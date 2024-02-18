@@ -1,0 +1,52 @@
+# Security Controls
+## Control Categories
+- we are protecting data, systems , peoples nd different things in our orgnization
+- minimizing impact and liite the damage if someone finds into our computing environment
+## technical controls
+- Controls implemented using systems within our operating system controls, and fire walls, anti-virus
+## Managerial controls
+- Administrative controls associated w/ security desgin and implementation 
+- Security policies which would be in our day to day standard controls
+## Operational controls
+- Use peoples to implement controls, I.E security guards, awareness programs
+## Phyiscal controls
+- Limit physicall acess
+- Guard shack
+- Fences, locks
+- Badge readers
+## Control Categories and types
+## Preventive Control type
+- Limits to access to a particular resource
+- like a firewall rule, prevents access to a area of a network
+- a guard shack cehcking i.D
+## Deterrent Control
+- Discourage an intrusion attempt, doesnt directly prevent access
+- Makes attacker think twice
+- Application splash screen, threat of demotion, front reception desk, posted warning signs
+![Alt text](<assets/assets/control types 2/4.png>)
+## Detective Control
+- identify and log an intrustion attempt
+- may not prevent access but gives a warning
+- Find the issue
+- collects and reviews system logs
+- review login reports
+- regularly patrol the preorpty
+## Corrective Control
+- apply a control after an event has been detected
+- Reverse the impact of an event
+- contiune operating w/ minimal downtine
+- correct a ransomware problem
+- Restoring from backups can mitigate a ransomware infection (technical)
+- create policies for reporting security issue( managarial)
+- contact law enforcement to manage criminal activity
+- use a fire extinguisher
+## Compensating Control
+- Control using otgher means
+- Exisiting controls arent sufficent 
+- May be temporary
+- coudlk have an app that is important to our organziation yet app dev said there is a vulnerability
+- we would use a firewall rule to block a speicific application while waiting for app patch
+- implement a separation of duties
+- require simultaneous guard duties
+- generator used after power 
+![Alt text](<Screenshot 2024-02-18 at 1.07.41 PM.png>)
